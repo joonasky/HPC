@@ -1,2 +1,2 @@
 # HPC
-High performance computing SOC algorithm with parallelization
+High performance computing SOR algorithm with parallelization
